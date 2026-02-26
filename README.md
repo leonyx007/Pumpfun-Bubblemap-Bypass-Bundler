@@ -1,5 +1,6 @@
 # Pumpfun Bubblemap Bypass Bundler
-![Pumpfun Bubblemap Bypass Bundler Banner](./image1.jpg)
+![image1](https://github.com/user-attachments/assets/d0017e75-8255-4a90-8cf7-df04062def55)
+
 
 > Pump.fun launch bundler with a core Bubblemap bypass engine, flexible wallet controls, and relay-ready architecture.
 
